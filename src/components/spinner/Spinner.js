@@ -1,12 +1,12 @@
-import React, { useState } from 'react';
+import React from 'react';
 
 import './Spinner.css';
 
 export const Spinner = () => {
-  return (
-    <div className="spinner-container">
-      <div className="loading-spinner"></div>
-      Loading
-    </div>
-  );
+	return (
+		<div className="spinner-container">
+			<div className="loading-spinner"></div>
+			Loading
+		</div>
+	);
 };
