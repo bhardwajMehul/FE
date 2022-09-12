@@ -3,7 +3,7 @@
  * Please don't modify this in your submission. :)
  */
 export const getQuizzes = async () => {
-  await new Promise((resolve) => setTimeout(resolve, 2000));
+  await new Promise(resolve => setTimeout(resolve, 2000));
 
   return [
     {
@@ -71,7 +71,7 @@ export const getQuizzes = async () => {
  * Please also don't modify this in your submission. :)
  */
 export const getMoreQuizzes = async () => {
-  await new Promise((resolve) => setTimeout(resolve, 2000));
+  await new Promise(resolve => setTimeout(resolve, 2000));
 
   return [
     {

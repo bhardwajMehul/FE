@@ -11,7 +11,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "format": "prettier --write \"**/*.+(js|json|css|md|mdx|html)\""
+    "format": "prettier --write \"**/*.+(js|json|css|md|mdx|html)\"",
+    "dev": "react-scripts start"
   },
   "eslintConfig": {
     "extends": "react-app"

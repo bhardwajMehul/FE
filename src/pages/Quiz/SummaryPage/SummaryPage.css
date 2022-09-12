@@ -1,0 +1,7 @@
+.buttonContainer {
+  flex-direction: row;
+}
+
+.takeQuizButton {
+  width: fit-content;
+}

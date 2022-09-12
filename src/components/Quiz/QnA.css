@@ -1,0 +1,23 @@
+.optionButton {
+  margin: 5px 0;
+  background-color: transparent;
+  border: 0;
+  border-radius: 3px;
+}
+
+.incorrect {
+  border: 1.5px solid red;
+  text-decoration: line-through;
+}
+
+.correct {
+  border: 1.5px solid green;
+}
+
+.nextButton {
+  padding: 4px 10px;
+  border-radius: 5px;
+  border: 0;
+  background-color: lightgreen;
+  color: black;
+}
